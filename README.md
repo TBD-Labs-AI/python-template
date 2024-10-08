@@ -15,11 +15,11 @@ poetry run pre-commit run --all-files
 
 ### Development dependencies
 
-- [poetry](https://python-poetry.org/)
-- [pre-commit](https://pre-commit.com/)
-- [ruff](https://github.com/astral-sh/ruff)
-- [black](https://github.com/psf/black)
-- [mypy](https://github.com/python/mypy)
+- [poetry](https://python-poetry.org/): Dependency management
+- [pre-commit](https://pre-commit.com/): Pre-commit hooks
+- [ruff](https://github.com/astral-sh/ruff): Linter
+- [black](https://github.com/psf/black): Formatter
+- [mypy](https://github.com/python/mypy): Static type checker
 
 This template uses python version 3.11. You may change the python version if you want to change the python version.
 
